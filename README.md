@@ -9,3 +9,8 @@
 ##### React-icons
 
 ##### SCSS 를 경험해본다.
+
+---
+Insert
+<img width="458" alt="스크린샷 2020-10-15 오후 3 57 14" src="https://user-images.githubusercontent.com/39754252/96087806-693d3380-0eff-11eb-93f7-73c5adbfc9c7.png">
+---
